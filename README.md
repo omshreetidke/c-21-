@@ -1,2 +1,1 @@
-# c-21-
-astro
+# C21-project-sol
